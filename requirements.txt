@@ -1,0 +1,8 @@
+Libraries that Needs to be Installed - 
+1. numpy
+2. tensorflow
+3. tflearn
+4. random
+5. nltk
+
+

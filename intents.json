@@ -1,0 +1,35 @@
+{
+        "legal_faqs": [
+          {
+            "question": "What is a contract?",
+            "answer": "A contract is a legally binding agreement between two or more parties that creates mutual obligations. It requires an offer, acceptance, consideration, and mutual consent.",
+            "category": "Contracts"
+          },
+          {
+            "question": "Can I break a lease early?",
+            "answer": "Breaking a lease early depends on the terms of the lease agreement and local laws. Some leases have early termination clauses, while others require payment of penalties.",
+            "category": "Property Law"
+          },
+          {
+            "question": "What are my rights if I get arrested?",
+            "answer": "If you get arrested, you have the right to remain silent, the right to an attorney, and the right to know the charges against you. Exercise these rights and avoid self-incrimination.",
+            "category": "Criminal Law"
+          },
+          {
+            "question": "Can my employer fire me without notice?",
+            "answer": "In at-will employment states, an employer can terminate an employee without notice unless a contract states otherwise. Some exceptions include wrongful termination claims.",
+            "category": "Employment Law"
+          },
+          {
+            "question": "How can I file for divorce?",
+            "answer": "Filing for divorce involves submitting a petition to the court, serving papers to your spouse, and attending legal proceedings. Laws vary by jurisdiction.",
+            "category": "Family Law"
+          },
+          {
+            "question": "What happens if I die without a will?",
+            "answer": "If you die without a will, your assets will be distributed according to state intestacy laws, usually to your closest relatives.",
+            "category": "Estate Planning"
+          }
+        ]
+      }
+      
